@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import json
-url="http://127.0.0.1:8000/predict"
+url="https://ml-model-app-1.onrender.com/predict"
 st.title("🏦 Insurance Premium Prediction App")
 st.markdown("enter your details below:")
 
